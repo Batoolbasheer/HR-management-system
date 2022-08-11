@@ -32,7 +32,7 @@ document.write(`<p> Employee Name : ${this.Name} <br>Department :  ${this.Depart
 
 let Employee1 = new EmployeeInfo(1000,"Ghazi Samer","Administration","img/ghazi.jpj","Senior",0);
 let Employee2= new EmployeeInfo(1001,"Lana Ali","Finance","img/lana.jpg","Senior",2000);
-let Employee3=new EmployeeInfo(1002,"Tamara Ayoub","img/tamara.jpg","Senior",2000);
+let Employee3=new EmployeeInfo(1002,"Tamara Ayoub","Marketing","img/tamara.jpg","Senior",2000);
 let Employee4= new EmployeeInfo(1003,"Safi Walid","Administration","img/safi.jpg","Mid-Senior",1500);
 let Employee5= new EmployeeInfo(1004,"Omar Zaid","Development","img/omar.jpg",2000);
 let Employee6= new EmployeeInfo(1005,"Rana Saleh","Development","img/rana.jpg","junior",1000);
